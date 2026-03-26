@@ -3,12 +3,18 @@ Detect mimikatz và brute force với SOAR (wazuh + shuffle + thehive)
 
 I. Điều kiện tiên quyết
 1. Soar là gì?
+
 SOAR không phải là một công cụ đơn lẻ mà là một tập hợp các công nghệ cho phép tổ chức thu thập dữ liệu an ninh và phản ứng với các sự cố một cách tự động.
 Soar gồm 3 thành phần:
+
 ●	Điều phối (Orchestration): kết nối và phối hợp nhiều công cụ bảo mật khác nhau.
+
 ●	Tự động hóa (Automation): tự động thực hiện các bước xử lý.
+
 ●	Ứng phó (Response): phản ứng nhanh với các sự cố an ninh.
-2. Wazuh, shuffle, thehive là gì? 
+
+2. Wazuh, shuffle, thehive là gì?
+
 a)	Wazuh
 Wazuh là nền tảng an ninh mạng mã nguồn mở được sử dụng rộng rãi nhất, tích hợp XDR và SIEM trong một giải pháp duy nhất. Nó phân tích dữ liệu bảo mật trên các thiết bị đầu cuối, đám mây và mạng để phát hiện các mối đe dọa, ứng phó với sự cố và đảm bảo tuân thủWazuh là một nền tảng bảo mật mã nguồn mở miễn phí tích hợp các khả năng Phát hiện và Phản hồi Mở rộng (XDR) và Quản lý Thông tin và Sự kiện Bảo mật (SIEM). Nó cung cấp khả năng bảo vệ toàn diện cho các thiết bị đầu cuối và khối lượng công việc trên đám mây, cho phép các tổ chức phát hiện và ứng phó với các mối đe dọa một cách hiệu quả.
 Các chức năng chính của Wazuh:
