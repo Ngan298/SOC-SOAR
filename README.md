@@ -71,7 +71,7 @@ Thành phần chính của Shuffle
 3. Để cài đặt tất cả thành 1 server thì máy cần bao nhiêu ram
 
 Bảng dưới đây tổng hợp các yêu cầu về RAM, CPU và lưu trữ cho từng thành phần khi chạy riêng lẻ và khi kết hợp trong một máy chủ All-in-One.
-
+//
 ------------------------------------------------------
 | Wazuh Indexer           | 4 GB  | 8 GB  | 2 Cores  |
 ------------------------------------------------------
@@ -85,6 +85,7 @@ Bảng dưới đây tổng hợp các yêu cầu về RAM, CPU và lưu trữ c
 ------------------------------------------------------
 | Tổng cộng All-in-One    | 12 GB |	16 GB |	4-8 vCPU |
 ------------------------------------------------------
+//
 
 II. Bắt đầu
 
