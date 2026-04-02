@@ -2,7 +2,7 @@ Detect mimikatz và brute force với SOAR (wazuh + shuffle + thehive)
 
 
 I. Điều kiện tiên quyết
-1. Soar là gì?
+1. Soar là gì? 
 
 SOAR không phải là một công cụ đơn lẻ mà là một tập hợp các công nghệ cho phép tổ chức thu thập dữ liệu an ninh và phản ứng với các sự cố một cách tự động.
 
